@@ -1,0 +1,98 @@
+/* Navbar */
+nav form a:hover{
+    text-decoration: none;
+    color:#696969;
+}
+
+/*dashboard*/
+#home{
+    padding-top: 100px;
+    text-align: center;
+}
+  
+#home .container h1{
+    font-size: 25px;
+    margin:36px;
+    color: #2e279d;
+}  
+
+#home .isi .shadow:hover{
+
+    transform: scale(1.06);
+    text-align: center;
+    
+}
+#home .isi .container.atas{
+    background-color:#f9f8f8;
+    margin-top:-10px;
+    margin-bottom: -40px;
+    padding-top: -40px;
+    padding-bottom:20px;
+    
+}
+#home .home-link{
+    align-content: center;
+    margin: 0 auto;
+}
+
+/* Sidebar */
+.nav-link:hover{
+	background-color: grey;
+}
+
+.search {
+    margin-bottom: 20px;
+}
+
+/* Body */
+body {
+    background-color: #F5F5DC;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+
+/* login */
+body {
+    background-color: #F5F5DC;
+}
+h2 {
+    color: #2e279d;
+    text-align: center;   
+}
+h3 {
+    color: #2e279d;
+    text-align: center;
+}
+
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+ 
+label{
+    font-size: medium;
+    color: black;
+}
+ 
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: #2e279d;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
